@@ -141,8 +141,8 @@ dependencies:
     specifier: ^1.2.0
     version: 1.2.0
   path-to-regexp:
-    specifier: ^6.2.2
-    version: 6.2.2
+    specifier: ^6.3.0
+    version: 6.3.0
   payload:
     specifier: 3.0.0-beta.35
     version: 3.0.0-beta.35(@swc/core@1.5.7)(@swc/types@0.1.7)(graphql@16.8.1)(typescript@5.4.5)
@@ -5098,7 +5098,7 @@ packages:
       graphql-playground-html: 1.6.30
       http-status: 1.6.2
       next: 14.3.0-canary.37(@babel/core@7.24.5)(react-dom@18.3.1)(react@18.3.1)
-      path-to-regexp: 6.2.2
+      path-to-regexp: 6.3.0
       payload: 3.0.0-beta.35(@swc/core@1.5.7)(@swc/types@0.1.7)(graphql@16.8.1)(typescript@5.4.5)
       qs: 6.11.2
       react-diff-viewer-continued: 3.2.6(react-dom@18.3.1)(react@18.3.1)
@@ -11766,8 +11766,8 @@ packages:
       lru-cache: 10.2.2
       minipass: 7.1.1
 
-  /path-to-regexp@6.2.2:
-    resolution: {integrity: sha512-GQX3SSMokngb36+whdpRXE+3f9V8UzyAorlYvOGx87ufGHehNTn5lCxrKtLyZ4Yl/wEKnNnr98ZzOwwDZV5ogw==}
+  /path-to-regexp@6.3.0:
+    resolution: {integrity: sha512-Yhpw4T9C6hPpgPeA28us07OJeqZ5EzQTkbfwuhsUg0c237RomFoETJgmp2sa3F/41gfLE6G5cqcYwznmeEeOlQ==}
     dev: false
 
   /path-type@4.0.0:
